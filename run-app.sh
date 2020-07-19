@@ -1,2 +1,2 @@
-export FLASK_APP=hello.py
+export FLASK_APP=./app/main.py
 flask run
